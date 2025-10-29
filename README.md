@@ -1,15 +1,14 @@
-# Daniel-Rapa
 # 🛡️ Daniel Rapa | Cybersecurity Portfolio  
 
-### 🌍 Aspiring Cybersecurity Professional | Student of Google Cybersecurity Professional Certificate  
+### 🌱 Beginner in Cybersecurity | Google Cybersecurity Professional Certificate Student  
 
 ---
 
 ## 👋 About Me  
-Hi! I’m **Daniel Rapa**, an aspiring cybersecurity professional currently completing the **Google Cybersecurity Professional Certificate**.  
-My background in **International Relations** introduced me to the global impact of **AI, data privacy, and cyber governance**, which inspired me to pursue cybersecurity.  
+Hi there! I’m **Daniel Rapa**, a student currently enrolled in the **Google Cybersecurity Professional Certificate**.  
 
-I’m passionate about defending digital systems, analyzing threats, and understanding how cybersecurity intersects with diplomacy and international security.  
+My journey into cybersecurity began while studying **International Relations**, where I became fascinated by how **AI, digital governance, and cyber threats** influence global security.  
+Although I’m at the **beginning of my cybersecurity career**, I’m committed to learning core technical skills, understanding how security protects individuals and nations, and contributing to a safer digital world.  
 
 ---
 
@@ -17,76 +16,63 @@ I’m passionate about defending digital systems, analyzing threats, and underst
 
 **Google Cybersecurity Professional Certificate**  
 *Coursera | In Progress (Expected Completion: [Month, Year])*  
-- Gaining hands-on experience with tools like **Wireshark, Splunk, and Linux**  
-- Learning risk management, threat detection, and incident response practices  
-- Conducting real-world labs involving packet analysis and SIEM dashboards  
+- Learning foundational cybersecurity concepts including **threat detection**, **incident response**, and **risk management**  
+- Gaining hands-on exposure to tools like **Splunk** and **Linux**. 
+- Completing practical labs in **network analysis** and **security monitoring**  
 
 **Bachelor’s / Master’s in International Relations**  
-*[Your University Name]*  
-- Focus areas: International Security, Cyber Governance, and AI Policy  
-- Research explored the link between technology and global diplomacy  
+*[University of Malta]*  
+- Explored the global impact of technology, cyber policy, and security cooperation  
+- Developed analytical and research skills applicable to cybersecurity governance  
 
 ---
 
-## 🧠 Technical Skills  
+## 🧠 Developing Skills  
 
-| Category | Skills |
-|-----------|--------|
-| **Security Tools** | Wireshark, Splunk, Suricata, Linux Terminal |
-| **Programming** | Python (basic scripting), SQL |
-| **Frameworks & Standards** | NIST, ISO/IEC 27001, CIA Triad |
-| **Concepts** | Threat detection, Network security, Access control, Risk management |
-| **Soft Skills** | Analytical thinking, Policy analysis, Communication, Teamwork |
-
----
-
-## 🧩 Projects  
-
-### 🔹 1. Network Traffic Analysis with Wireshark  
-- Captured and analyzed network packets to identify suspicious DNS requests.  
-- Detected anomalies indicating possible spoofing or intrusion attempts.  
-- **Outcome:** Strengthened understanding of TCP/IP and network forensics.  
-
-### 🔹 2. Security Incident Response Simulation (Splunk SIEM)  
-- Investigated simulated log data to detect potential insider threats.  
-- Created an incident response report following the NIST framework.  
-- **Outcome:** Enhanced ability to detect, analyze, and respond to cyber incidents.  
-
-### 🔹 3. Linux System Hardening  
-- Configured user privileges, firewall rules, and audit logs in a Linux VM.  
-- Implemented password security policies and SSH key management.  
-- **Outcome:** Improved endpoint and access security practices.  
+| Category | Skills (In Progress) |
+|-----------|----------------------|
+| **Security Tools** | Wireshark, Splunk, Linux |
+| **Concepts** | Threat detection, Incident response, Risk assessment |
+| **Programming Basics** | Python, SQL |
+| **Frameworks** | NIST CSF/RMF, CIA Triad |
+| **Soft Skills** | Research, Critical thinking, Communication, Policy analysis |
 
 ---
 
-## 🔐 Cybersecurity Interests  
-- Cyber defense and policy  
-- AI and machine learning in security  
-- Cyber diplomacy and global cyber norms  
-- Digital privacy and human rights online  
+## 🧩 Practice Projects  
+*(I’m currently at the beginning of my journey into cyberssecurity and hope to embark on small project to showcase my skills.)*
+
+---
+
+## 🔐 Areas of Interest  
+- Cyber defense and risk management  
+- AI and emerging technologies in cybersecurity  
+- Cyber diplomacy and international cyber governance  
+- Digital privacy and online ethics  
 
 ---
 
 ## 🏅 Certifications  
 - **Google Cybersecurity Professional Certificate** *(In Progress)*  
-- *(Future Goals: CompTIA Security+, Certified Ethical Hacker, Cisco CyberOps Associate)*  
+
+*(Future Goals: CompTIA Security+, Cybersecurity Analyst)*  
 
 ---
 
-## 📈 Professional Development  
-- Participating in cybersecurity webinars and workshops  
-- Exploring **CISA**, **MITRE ATT&CK**, and **NIST** frameworks  
-- Building foundational projects on GitHub to document my learning journey  
+## 📈 Current Learning Focus  
+- Strengthening technical foundations in networking, Linux, and security analysis  
+- Building small projects and documenting them here on GitHub  
+- Exploring beginner-friendly Capture the Flag (CTF) challenges and cybersecurity communities  
 
 ---
 
 ## 📫 Contact Me  
-**Email:** [your.email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourname]  
+**Email:** [danielrapa888@gmail.com]  
+**LinkedIn:** [linkedin.com/in/daniel-rapa-036618344/]  
 **GitHub:** [github.com/DanielRapa]  
-**Location:** [City, Country]  
+**Location:** [Xaghra, Gozo, Malta]  
 
 ---
 
-> “Cybersecurity is not just about technology—it’s about understanding people, power, and policy in the digital world.”  
-> — *Daniel Rapa*
+
+
