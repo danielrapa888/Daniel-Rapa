@@ -44,6 +44,13 @@ Although I’m at the **beginning of my cybersecurity career**, I’m committed 
 
 ---
 
+## 🧭 Professional Statement
+
+I’m **Daniel Rapa**, an M.A. student transitioning into **cybersecurity** through the **Google Cybersecurity Professional Certificate**. I bring strengths in research, clear communication, and policy awareness from **International Relations**. I value **integrity**, **privacy**, and **continuous learning**. I’m interested in **threat detection**, **risk management**, and **security governance**.  
+
+**How this meets an organization’s security goals:** I apply a methodical, evidence-based approach to protect **confidentiality, integrity, and availability**; document incidents clearly for accountability and compliance; and support user awareness with simple, accurate explanations. I’m building hands-on skills (Linux, basic Python/SQL) to help reduce risk and improve security operations as I grow.
+
+
 ## 🔐 Areas of Interest  
 - Cyber defense and risk management  
 - AI and emerging technologies in cybersecurity  
