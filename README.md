@@ -31,7 +31,7 @@ Although I’m at the **beginning of my cybersecurity career**, I’m committed 
 
 | Category | Skills (In Progress) |
 |-----------|----------------------|
-| **Security Tools** | Wireshark, Splunk, Linux |
+| **Security Tools** | Splunk, Linux |
 | **Concepts** | Threat detection, Incident response, Risk assessment |
 | **Programming Basics** | Python, SQL |
 | **Frameworks** | NIST CSF/RMF, CIA Triad |
