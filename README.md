@@ -40,7 +40,11 @@ Although I’m at the **beginning of my cybersecurity career**, I’m committed 
 ---
 
 ## 🧩 Practice Projects  
-*(I’m currently at the beginning of my journey into cyberssecurity and hope to embark on small project to showcase my skills.)*
+
+### Botium Toys Security Audit
+[View the project →](./botium-toys-security-audit/Botium-Toys-Security-Audit-Report.md)
+
+A security audit and compliance review of Botium Toys, assessing cybersecurity controls and compliance with PCI DSS, GDPR, and SOC 2 standards.
 
 ---
 
