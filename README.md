@@ -42,6 +42,7 @@ Although I’m at the **beginning of my cybersecurity career**, I’m committed 
 ## 🧩 Practice Projects  
 
 ### Botium Toys Security Audit
+This project forms part of the Google Cybersecurity Certificate which I am currently enrolled in.
 [View the project ](/Botium-Toys-Security-Audit-Report.md)
 
 A security audit and compliance review of Botium Toys, assessing cybersecurity controls and compliance with PCI DSS, GDPR, and SOC 2 standards.
