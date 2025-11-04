@@ -1,6 +1,6 @@
 # Botium Toys Security Audit Report
 
-# The following security audit is an activity which forms part of the Google Cybersecurity Certificate. 
+The following security audit is an activity which forms part of the Google Cybersecurity Certificate. 
 
 ## 1. Scope and Objectives
 
