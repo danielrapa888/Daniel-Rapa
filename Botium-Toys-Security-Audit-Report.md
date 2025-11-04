@@ -126,6 +126,6 @@ By implementing the recommended measures—particularly encryption, access manag
 
 ---
 
-**Prepared by:** [Your Name]  
-**Date:** [Insert Date]  
-**Project:** Coursera — Manage Security Risks Portfolio Activity  
+**Prepared by:** [Daniel Rapa]  
+**Date:** [04.11.2025]  
+**Project:** Coursera — Security Audit Portfolio Activity  
