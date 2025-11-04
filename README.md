@@ -15,7 +15,7 @@ Although I’m at the **beginning of my cybersecurity career**, I’m committed 
 ## 🎓 Education  
 
 **Google Cybersecurity Professional Certificate**  
-*Coursera | In Progress (Expected Completion: [Month, Year])*  
+*Coursera | In Progress (Expected Completion: [March 2026])*  
 - Learning foundational cybersecurity concepts including **threat detection**, **incident response**, and **risk management**  
 - Gaining hands-on exposure to tools like **Splunk** and **Linux**. 
 - Completing practical labs in **network analysis** and **security monitoring**  
@@ -53,7 +53,7 @@ I’m **Daniel Rapa**, an M.A. student transitioning into **cybersecurity** thro
 
 ## 🔐 Areas of Interest  
 - Cyber defense and risk management  
-- AI and emerging technologies in cybersecurity  
+- AI and emerging technologies   
 - Cyber diplomacy and international cyber governance  
 - Digital privacy and online ethics  
 
