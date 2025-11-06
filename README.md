@@ -66,6 +66,7 @@ I’m **Daniel Rapa**, an M.A. student transitioning into **cybersecurity** thro
 
 ## 🏅 Certifications  
 - **Google Cybersecurity Professional Certificate** *(In Progress)*  
+- - Course 1: Foundations of Cybersecurity 
 
 *(Future Goals: CompTIA Security+, Cybersecurity Analyst)*  
 
@@ -74,7 +75,7 @@ I’m **Daniel Rapa**, an M.A. student transitioning into **cybersecurity** thro
 ## 📈 Current Learning Focus  
 - Strengthening technical foundations in networking, Linux, and security analysis  
 - Building small projects and documenting them here on GitHub  
-- Exploring beginner-friendly Capture the Flag (CTF) challenges and cybersecurity communities  
+- Exploring beginner-friendly challenges (Capture the Flag) and cybersecurity communities  
 
 ---
 
