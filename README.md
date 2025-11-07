@@ -17,7 +17,7 @@ Although I’m at the **beginning of my cybersecurity career**, I’m committed 
 **Google Cybersecurity Professional Certificate**  
 *Coursera | In Progress (Expected Completion: [March 2026])*  
 - Learning foundational cybersecurity concepts including **threat detection**, **incident response**, and **risk management**  
-- Gaining hands-on exposure to tools like **Splunk** and **Linux**. 
+- Gaining hands-on exposure to tools like **Splunk**, **Pjthon** and **Linux**. 
 - Completing practical labs in **network analysis** and **security monitoring**  
 
 **Bachelor’s / Master’s in International Relations**  
