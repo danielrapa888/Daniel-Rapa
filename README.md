@@ -66,8 +66,8 @@ I’m **Daniel Rapa**, an M.A. student transitioning into **cybersecurity** thro
 
 ## 🏅 Certifications  
 - **Google Cybersecurity Professional Certificate (2/9)** *(In Progress)*  
-  - Course 1: Foundations of Cybersecurity [View my Certificate] (https://github.com/danielrapa888/Daniel-Rapa/blob/main/Foundations%20of%20Cybersecurity.pdf)
-  - Course 2: Play It Safe: Manage Security Risks [View my Certificate] (https://github.com/danielrapa888/Daniel-Rapa/blob/main/Play%20it%20Safe%20-%20Manage%20Security%20Risks.pdf)
+  - Course 1: Foundations of Cybersecurity [View my Certificate] (https://www.coursera.org/account/accomplishments/verify/U1ETY17RYDEB)
+  - Course 2: Play It Safe: Manage Security Risks [View my Certificate] (https://www.coursera.org/account/accomplishments/verify/N19FP8GP3ZY8)
 
 
 *(Future Goals: CompTIA Security+, Cybersecurity Analyst)*  
